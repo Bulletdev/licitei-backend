@@ -1,0 +1,14 @@
+com\effecti\licitacoes\application\dto\ItemLicitacaoDTO.class
+com\effecti\licitacoes\domain\entity\ItemLicitacao.class
+com\effecti\licitacoes\infrastructure\exception\GlobalExceptionHandler.class
+com\effecti\licitacoes\domain\repository\LicitacaoRepository.class
+com\effecti\licitacoes\infrastructure\exception\GlobalExceptionHandler$ErrorResponse.class
+com\effecti\licitacoes\application\dto\PageResponseDTO.class
+com\effecti\licitacoes\domain\entity\Licitacao.class
+com\effecti\licitacoes\LicitacoesApiApplication.class
+com\effecti\licitacoes\application\service\LicitacaoService.class
+com\effecti\licitacoes\infrastructure\config\RestTemplateConfig.class
+com\effecti\licitacoes\infrastructure\service\ComprasNetScrapingService.class
+com\effecti\licitacoes\infrastructure\exception\ResourceNotFoundException.class
+com\effecti\licitacoes\presentation\controller\LicitacaoController.class
+com\effecti\licitacoes\application\dto\LicitacaoDTO.class

@@ -1,0 +1,13 @@
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\infrastructure\service\ComprasNetScrapingService.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\application\dto\LicitacaoDTO.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\domain\entity\ItemLicitacao.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\infrastructure\exception\GlobalExceptionHandler.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\infrastructure\config\RestTemplateConfig.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\LicitacoesApiApplication.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\presentation\controller\LicitacaoController.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\application\dto\PageResponseDTO.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\application\dto\ItemLicitacaoDTO.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\domain\entity\Licitacao.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\infrastructure\exception\ResourceNotFoundException.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\domain\repository\LicitacaoRepository.java
+C:\Users\michael.santos\Documents\GitHub\licitei\licitacoes-api\src\main\java\com\effecti\licitacoes\application\service\LicitacaoService.java

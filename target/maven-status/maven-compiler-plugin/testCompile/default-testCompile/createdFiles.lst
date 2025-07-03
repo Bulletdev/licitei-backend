@@ -1,0 +1,4 @@
+com\effecti\licitacoes\domain\repository\LicitacaoRepositoryTest.class
+com\effecti\licitacoes\application\service\LicitacaoServiceTest.class
+com\effecti\licitacoes\infrastructure\service\ComprasNetScrapingServiceTest.class
+com\effecti\licitacoes\presentation\controller\LicitacaoControllerTest.class

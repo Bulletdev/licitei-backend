@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: licitacoes-api
+
+  datasource:
+    url: ${DB_URL}
+    driver-class-name: org.postgresql.Driver
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+    open-in-view: false
+
+  jackson:
+    time-zone: America/Sao_Paulo
+
+server:
+  port: 9991
+
+  logging:
+    level:
+      com.effecti.licitacoes: TRACE
