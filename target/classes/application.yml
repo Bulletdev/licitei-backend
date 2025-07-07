@@ -10,7 +10,7 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: create-drop
+      ddl-auto: update
       dialect: org.hibernate.dialect.PostgreSQLDialect
     show-sql: false
     properties:
@@ -22,7 +22,7 @@ spring:
     time-zone: America/Sao_Paulo
 
 server:
-  port: 9991
+  port: ${PORT}
 
   logging:
     level:
